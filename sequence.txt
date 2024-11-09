@@ -1,0 +1,21 @@
+Exp01 - Simulation study of random processes. Find various statistical 
+parameters of the random process. 
+
+Exp02 - Simulation study of various Entropies and mutual information in a 
+communication system.
+
+Exp03 - Simulation study of Source Coding technique. Huffman Coding. 
+
+Exp04 -  Simulation Study of Linear Block codes. Hamming Coding
+
+Exp05 -  Simulation study of Performance of M-ary PSK. Write a program to plot practical and theoretical BER vs SNR graph of received  8-PSK signal. 
+
+Exp06 -  Simulation study of Performance of M-ary QAM. Write a program to plot practical and theoretical BER vs SNR graph of received 16 QAM signal.
+
+Exp07 - skip
+
+Exp08 - Study of DSSS transmitter and receiver using suitable hardware setup/kit.
+
+Exp09 - Study of BFSK transmitter & receiver using suitable hardware setup/kit.
+
+Exp10 - Study of Baseband receiver performance in presence of Noise  using suitable hardware setup/kit.
